@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7792696
+  brandStrength: 1
+  lightness: 0.3442535
+  brandColors:
+    - '#5D5338'
+    - '#A29A7F'
+    - '#D7E0EA'
+    - '#BD9B53'
+    - '#18130F'
+  rhythmicContrast: 0.4946294
+typography_spectrum: 0.3453276
+name: ChefKets
